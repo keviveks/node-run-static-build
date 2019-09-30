@@ -1,0 +1,14 @@
+{
+  "name": "node-run-static-build",
+  "description": "Run react/angular built applications in node+express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "keviveks",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
